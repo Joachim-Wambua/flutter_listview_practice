@@ -6,7 +6,7 @@
          additional functionality it is fine to subclass or reimplement
          FlutterApplication and put your custom class here. -->
     <application
-        android:name="io.flutter.embedding.android.FlutterActivity"
+        android:name="com.example.listview_practice.MainActivity"
         android:label="listview_practice"
         android:icon="@mipmap/ic_launcher">
         <activity
